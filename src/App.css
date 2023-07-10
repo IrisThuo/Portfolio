@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: #093249;
+}
+
+.container{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+.port-button{
+  position: absolute;
+  bottom: 5px;
+  right: 0px;
+  padding: 10px;
+}
