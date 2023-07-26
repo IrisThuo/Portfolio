@@ -4,9 +4,8 @@ import Home from './view/Home.js';
 
 function App() {
   return (
-    <div className="App" style={{
-      backgroundColor: "#093249"
-    }}>
+    <div className="App" >
+
       <Home/>
 
 

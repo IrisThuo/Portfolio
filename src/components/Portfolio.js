@@ -1,11 +1,12 @@
 import React from 'react';
 
-function LandingPage(props) {
+function Portfolio(props) {
     return (
         <div>
+            <button>ReachMe</button>
             
         </div>
     );
 }
 
-export default LandingPage;
+export default Portfolio;
